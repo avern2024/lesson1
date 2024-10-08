@@ -1,5 +1,5 @@
-Number_of_completed_homework_tasks = 12
-Number_of_hours_spent = 1.5
-Course_name = 'Python'
-Time_for_one_task = Number_of_hours_spent / Number_of_completed_homework_tasks
-print('Курс:', Course_name, ', всего задач:', Number_of_completed_homework_tasks, ', затрачено часов: ', Number_of_hours_spent, ', среднее время выполнения', Time_for_one_task, ' часа.')
+number_of_completed_homework_tasks = 12
+number_of_hours_spent = 1.5
+course_name = 'Python'
+time_for_one_task = number_of_hours_spent / number_of_completed_homework_tasks
+print('Курс:', course_name, ', всего задач:', number_of_completed_homework_tasks, ', затрачено часов: ', number_of_hours_spent, ', среднее время выполнения', time_for_one_task, ' часа.')
